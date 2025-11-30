@@ -6,7 +6,7 @@ public class cal {
   }
 
   public static int sub(int a, int b) {
-    return a - b;
+    return a - b -1 ;
   }
 
   public static int mul(int a, int b) {
